@@ -1,4 +1,4 @@
-# ## NAMA : HARIS ADRIANSYAH
+## NAMA : HARIS ADRIANSYAH
 ## NIM : 312410286
 ## KELAS : TI.24.A4
 ## MATKUL : BAHASA PEMROGRAMAN
@@ -33,9 +33,9 @@ list_a.extend(list_b)
 print(list_a)
 ```
 # CODE PROGRAM DI VISUAL CODE SEPERTI BERIKUT : 
-# ![Cuplikan layar 2024-11-18 195433](https://github.com/user-attachments/assets/135bc06b-0fa9-47a4-8bde-2fa99f1dc56c)
+# ![Cuplikan layar 2024-11-18 194349](https://github.com/user-attachments/assets/c46384c4-a494-4cad-8c25-c371692c9053)
 ## Hasil Dari Program Berikut :
-# ![Cuplikan layar 2024-11-18 195449](https://github.com/user-attachments/assets/3808603a-de0e-4dea-a742-77cd71d1ac14)
+# ![Cuplikan layar 2024-11-18 194810](https://github.com/user-attachments/assets/6bb1677b-0b2f-446d-b116-96bc16cd1d47)
 
 # MENAMBAH DATA.PY
 ```Python
@@ -122,11 +122,13 @@ print("-" * 60)
 ```
 ## Header tabel dicetak terlebih dahulu, diikuti oleh baris-baris data untuk setiap mahasiswa, Untuk setiap mahasiswa, metode hitung_nilai_akhir dipanggil untuk menghitung nilai akhir, lalu data ditampilkan dalam format tabel
 # CODE PROGRAM DI VISUAL CODE SEBAGAI BERIKUT : 
-# ![WhatsApp Image 2024-11-17 at 03 17 50_b5acd00f](https://github.com/user-attachments/assets/e96a477b-7926-4005-9f22-ee54ee98601b)
+# ![Cuplikan layar 2024-11-18 195433](https://github.com/user-attachments/assets/0d6cff72-dded-4398-a6f8-c5932e6c43f3)
 ## HASIL PROGRAM DI ATAS SEPERTI DI BAWAH INI :
-# ![WhatsApp Image 2024-11-17 at 03 18 47_7483efda](https://github.com/user-attachments/assets/9b7703a5-616e-4232-bfa4-5209df5ed982)
+# ![Cuplikan layar 2024-11-18 195449](https://github.com/user-attachments/assets/2eb738ee-827a-4c66-948a-b5bb732be006)
 
 # DAN DI BAWAH INI ADALAH FLOWCHART NYA : 
 # ![Screenshot 2024-11-13 083635](https://github.com/user-attachments/assets/fd62b92c-443e-47e4-b088-05bb79c81b93)
+
+
 
 
