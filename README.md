@@ -33,9 +33,9 @@ list_a.extend(list_b)
 print(list_a)
 ```
 # CODE PROGRAM DI VISUAL CODE SEPERTI BERIKUT : 
-# ![Cuplikan layar 2024-11-18 194349](https://github.com/user-attachments/assets/206711c9-eda2-4450-9ae9-f02d60acc4a4)
+# ![Cuplikan layar 2024-11-18 195433](https://github.com/user-attachments/assets/135bc06b-0fa9-47a4-8bde-2fa99f1dc56c)
 ## Hasil Dari Program Berikut :
-# ![Cuplikan layar 2024-11-18 194810](https://github.com/user-attachments/assets/806202af-e0f6-4918-a1ec-1f05061bd69c)
+# ![Cuplikan layar 2024-11-18 195449](https://github.com/user-attachments/assets/3808603a-de0e-4dea-a742-77cd71d1ac14)
 
 # MENAMBAH DATA.PY
 ```Python
